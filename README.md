@@ -1,2 +1,2 @@
-# mess-pro-privacy-policy
-Privacy Policy for Mess Pro App
+# meal-pass-privacy-policy
+Privacy Policy for Meal Pass App
